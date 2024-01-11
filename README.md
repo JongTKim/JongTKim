@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&height=150&section=header&text=JT's&nbsp;Coding&nbsp;blog&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=150&section=header&text=JT's&nbsp;Coding&nbsp;blog&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=55)
 
 # 😀 Hi! Nice to see you.
 Welcome to my page🎉<br>
