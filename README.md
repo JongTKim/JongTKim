@@ -13,10 +13,10 @@ I'm still a student at <strong>HSU</strong>
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring&nbsp;Boot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F.svg?&style=for-the-badge&logo=Thymeleaf&logoColor=white)
 ### IDE
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![](https://img.shields.io/badge/Intellij&nbsp;IDEA-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
+![Intellij](https://img.shields.io/badge/Intellij&nbsp;IDEA-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ### BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xowhd99)](https://solved.ac/xowhd99/)
