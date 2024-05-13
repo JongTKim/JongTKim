@@ -39,7 +39,6 @@ I'm still a student at <strong>HSU</strong>
 
 
 # 💜
-<h4>누구나에게 힘든 시간이란 존재한다.</h4>
-<h4>힘든 시간은 내가 2n, 아니 3n 이상의 속도로 발전할수있는 피버타임임을 항상 기억하자</h4>
+<h4>힘든 시간은 내가 2n, 3n 이상의 속도로 발전할수있는 피버타임이다!</h4>
 
 ![images](https://github.com/JongTKim/JongTKim/assets/95161602/2f8bb2d7-5947-4c42-a99a-1f6dc3fe6f98)
